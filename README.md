@@ -1,0 +1,1 @@
+This repository is meant to work as a kind of public blog. People spend a great deal of time thinking, reading, planning, and making decisions. Sharing some of that might be both nice and interesting.
